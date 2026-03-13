@@ -30,3 +30,6 @@ hrm-backend/
 ├── .gitignore                  # Khai báo các file/thư mục Git cần bỏ qua
 ├── package.json                # Chứa thông tin project và danh sách thư viện
 └── README.md                   # Hướng dẫn chạy project cho các thành viên khác
+
+
+npm install khi clone về 
