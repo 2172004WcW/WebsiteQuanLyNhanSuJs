@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Website Quản lý Nhân sự HRM - Chill
 
 Hệ thống quản lý nhân sự toàn diện, hỗ trợ nắm rõ tình hình nhân sự, lịch làm việc và các quy trình HR trong công ty. Xây dựng theo mô hình Role-Based Access Control (RBAC) với 4 vai trò: ADMIN, HR, DIRECTOR, EMPLOYEE.
@@ -190,3 +191,7 @@ MIT License - Hệ thống mã nguồn mở cho cộng đồng.
 **Phiên bản:** 1.0.0  
 **Cập nhật:** Tháng 4/2026  
 
+=======
+# WebsiteQuanLyNhanSuJs
+Website tạo ra nhằm mục đích nắm rõ được tình hình nhân sự trong công ty cũng như lịch làm việc ..
+>>>>>>> d2079c8522d5162ee2063b5b968bd939a79f530c
